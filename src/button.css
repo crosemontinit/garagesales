@@ -1,0 +1,19 @@
+.login
+{
+    color: green;
+    background-color: rgb(181, 243, 181);
+    cursor: pointer;
+    font: italic;
+    border-radius: 6px;
+    text-decoration: underline;
+}
+
+.create
+{
+    color: green;
+    background-color: rgb(181, 243, 181);
+    cursor: pointer;
+    font: italic;
+    border-radius: 6px;
+    text-decoration: underline;
+}
